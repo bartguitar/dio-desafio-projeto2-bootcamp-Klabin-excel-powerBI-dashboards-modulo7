@@ -2,7 +2,8 @@
 
 **Bootcamp:** Klabin - Excel e Power BI Dashboards 2026  
 **Módulo:** 7 - Desafio de Projeto 2  
-**Arquivo Final:** `dashboard-ecommerce-desafio.pbix`  
+**Arquivos Finais:** `modelo-powerbi-dashboard-ecommerce-desafio.pbix`
+`modelo-powerbi-dashboard-ecommerce-desafio.png`
 
 ---
 
